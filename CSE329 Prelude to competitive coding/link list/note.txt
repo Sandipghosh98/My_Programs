@@ -1,0 +1,40 @@
+application ll
+undo operation 
+bracket in program
+
+link list 10 4 11 5  ->  11 11 -1 -1
+ 
+
+how to use two stack in a array or stack
+
+one to grow downward another to upward
+bits/stdc++.h
+
+double link list
+push pop top with o(1)
+take a variable total if total is odd whilinh pushing change the mid pointer
+removable of mid node of double link list
+
+problem
+remove the middle element in a double linked list with a help of stack
+
+stack<int>s
+main(){
+
+for(int i=5;i<=5;i++){
+s.push();
+}
+
+}
+
+//implement of the queue
+in a array and queue
+
+
+do enque and dequeue in a single linklist with oppsite way
+
+front,enque and dequeue in a single linklist 
+
+reverse a queue using recursion
+
+

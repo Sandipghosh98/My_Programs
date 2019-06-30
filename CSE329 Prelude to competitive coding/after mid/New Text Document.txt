@@ -1,0 +1,9 @@
+GCD of two no.
+Euclid algo
+bits/stdc++.h
+ax+by=g
+
+extension Euclid algo
+
+Frugal Number
+codechef.com/problem/DXVI04
